@@ -1,3 +1,4 @@
+![logo](https://github.com/0xGilang/0xGilang/blob/main/gilang.png)
 <h1 align="center">Hi 👋, I'm Gilang</h1>
 <h3 align="center">Node Runner Testnet</h3>
 <img alt="gilang" width="400" src="https://cdn.dribbble.com/users/4341736/screenshots/15515365/media/bd0c4049732081e05d1b0ad2a5be8bc2.gif">
