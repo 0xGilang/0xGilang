@@ -7,8 +7,6 @@
 </p>
 - 🔭 Runner For Node Testnet [RaiblocksOne](https://explorer.raione.cc/account/xro_1fje56auo7fe7wfhpf75m8ik7874g9kishjfdnebseeb13g6y96ubgpdscjk/delegators)
 
-- 🌱 Runner For Node Testnet **Node Runner Testnet**
-
 - 🔭 Runner For Node Testnet [Avail](https://goldberg.avail.tools/#/staking)
 
 - 🔭 Runner For Node Testnet [Tangle](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet-rpc.tangle.tools#/staking)
