@@ -5,7 +5,16 @@
 <p align="left">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xgilang" alt="0xgilang"/></a>
 </p>
- - 🔭 I’m currently working on [RaiblocksOne](https://explorer.raione.cc/account/xro_1fje56auo7fe7wfhpf75m8ik7874g9kishjfdnebseeb13g6y96ubgpdscjk/delegators) - 🌱 I’m currently learning **Node Runner Testnet** - 🔭 I’m currently working on [Avail](https://goldberg.avail.tools/#/staking) - 🔭 I’m currently working on [Tangle](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet-rpc.tangle.tools#/staking) - 💬 Ask me about **Node Runner Testnet**
+- 🔭 I’m currently working on [RaiblocksOne](https://explorer.raione.cc/account/xro_1fje56auo7fe7wfhpf75m8ik7874g9kishjfdnebseeb13g6y96ubgpdscjk/delegators)
+
+- 🌱 I’m currently learning **Node Runner Testnet**
+
+- 🔭 I’m currently working on [Avail](https://goldberg.avail.tools/#/staking)
+
+- 🔭 I’m currently working on [Tangle](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet-rpc.tangle.tools#/staking)
+
+- 💬 Ask me about **Node Runner Testnet**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://twitter.com/gilangsultoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gilangsultoni" height="30" width="40"/></a>
